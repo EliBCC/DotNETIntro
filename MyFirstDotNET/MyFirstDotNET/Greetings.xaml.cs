@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace MyFirstDotNET
 {
     /// <summary>
@@ -20,9 +21,24 @@ namespace MyFirstDotNET
     /// </summary>
     public partial class MainWindow : Window
     {
+        Color blue, red;
         public MainWindow()
         {
+            blue = (Color)ColorConverter.ConvertFromString("#FFDEDEFF");
+            red = (Color)ColorConverter.ConvertFromString("#FFFCD1CF");
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (RedButton.IsChecked == true)
+            {
+                BackPanel1.Background = new SolidColorBrush(red);
+            }
+            else if (BlueButton.IsChecked == true)
+            {
+                BackPanel1.Background = new SolidColorBrush(blue);
+            }
         }
     }
 }
