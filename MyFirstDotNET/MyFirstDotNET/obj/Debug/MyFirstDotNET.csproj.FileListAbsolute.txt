@@ -1,0 +1,15 @@
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET.csprojAssemblyReference.cache
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\Greetings.g.cs
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\App.g.cs
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET_MarkupCompile.cache
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET_MarkupCompile.lref
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\bin\Debug\MyFirstDotNET.exe.config
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\bin\Debug\MyFirstDotNET.exe
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\bin\Debug\MyFirstDotNET.pdb
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\Greetings.baml
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET.g.resources
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET.Properties.Resources.resources
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET.csproj.GenerateResource.cache
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET.csproj.CoreCompileInputs.cache
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET.exe
+C:\Users\horiz\OneDrive\Documents\.NET Intro\MyFirstDotNET\MyFirstDotNET\MyFirstDotNET\obj\Debug\MyFirstDotNET.pdb

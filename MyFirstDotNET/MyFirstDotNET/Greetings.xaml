@@ -9,8 +9,8 @@
     <Grid x:Name="BackPanel" OpacityMask="Black">
         <WrapPanel x:Name="BackPanel1" HorizontalAlignment="Left" Height="422" VerticalAlignment="Top" Width="795" Background="#FFFCD1CF"/>
 
-        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Please choose a colour:" VerticalAlignment="Center" Margin="327,138,334,261.5" Height="23" Width="134"/>
-        <RadioButton x:Name="RedButton" Content="Red" HorizontalAlignment="Left" Margin="308,195,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked" IsChecked="True"/>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Please choose a colour:" VerticalAlignment="Center" Margin="313,138,334,261.5" Height="23" Width="148"/>
+        <RadioButton x:Name="RedButton" Content="Red" HorizontalAlignment="Left" Margin="308,195,0,0" VerticalAlignment="Top" IsChecked="True"/>
         <RadioButton x:Name="BlueButton" Content="Blue" HorizontalAlignment="Left" Margin="419,195,0,0" VerticalAlignment="Top"/>
         <Button x:Name="DisplayButton" Content="Display" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="349,257,0,0" Click="Button_Click" Background="#FFE7E7E7"/>
 
